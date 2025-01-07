@@ -61,8 +61,6 @@ Phero Tube is a video-sharing platform inspired by YouTube, designed to provide 
 
 - Include a blog section for sharing insights.
 
-- Add downloadable resume functionality.
-
 ---
 
 Feel free to explore and provide feedback to improve this Phero Tube Website!
